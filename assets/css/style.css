@@ -1,0 +1,15 @@
+body {
+	background-image: url(../images/moon.jpg);
+	background-repeat:no-repeat;
+}
+
+h1 {
+	text-align: center;
+}
+
+#letterGuess {
+	color: red;
+	height: 140px;
+	width: 140px;
+	background: blue;
+}
